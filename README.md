@@ -1,1 +1,1 @@
-# spatial_atac-seq
+Basic analysis of spatial ATAC-seq using ArchR
